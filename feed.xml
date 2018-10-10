@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>RoboProjekt</title><link href="https://pyladiescz.github.io/roboprojekt-blog/" rel="alternate"></link><link href="https://pyladiescz.github.io/roboprojekt-blog/feed.xml" rel="self"></link><id>https://pyladiescz.github.io/roboprojekt-blog/</id><updated>2018-10-10T09:58:00+02:00</updated><entry><title>První sraz</title><link href="https://pyladiescz.github.io/roboprojekt-blog/prvni-sraz" rel="alternate"></link><published>2018-10-10T09:58:00+02:00</published><updated>2018-10-10T09:58:00+02:00</updated><author><name>Anežka Müller</name></author><id>tag:pyladiescz.github.io,2018-10-10:/roboprojekt-blog/prvni-sraz</id><summary type="html">&lt;div&gt;&lt;p&gt;Letošní podzimní semestr se pro brněnské PyLadies nese částečně v duchu experimentů.
+Krom klasického kurzu pro začátečníky se totiž pod vedením Petra Viktorina rozběhl nový formát tohoto kurzu a také novinka pro pokročilejší, kurz zaměřený na realizaci praktického projektu a týmovou spolupráci. &lt;/p&gt;
+&lt;p&gt;V rámci kurzu budeme pod Petrovým dohledem v devítičlenné skupině převádět do počítačové podoby deskovou hru RoboRally.
+Včetně dokumentace, testování, všeho potřebného.
+Kurz nemá předpřipravené materiály, vše bude na nás.
+Jak Petr krásně na úvod řekl, budeme se učit dělat software tak, jak by se dělal, kdyby na to byl dostatek času :).
+Protože mi přesně něco takového, jako je praktický projekt, po absolvování začátečnického kurzu chybělo, rozhodla jsem se to zkusit.&lt;/p&gt;
+&lt;p&gt;Sešli jsme se poprvé tento týden v prostorách společnosti Kinali, která se stala sponzorem tohoto kurzu a nabídla nám svoje prostory.
+Vděčíme za to Karolině, organizátorce začátečnického kurzu a zároveň účastnici tohoto projektu, která pro Kinali pracuje jako testerka. Děkujeme :) &lt;/p&gt;
+&lt;p&gt;První setkání bylo primárně seznamovací. A to jak v rámci týmu, tak s náplní samotného kurzu (nebo spíše projektu) a toho, co nás čeká.
+Proběhlo představovací kolečko, kde jsme mluvili také o tom, co nás do kurzu přivedlo. 
+Většina z nás účastnic do toho jde s podobnou motivací - zdokonalit se v tom, co známe ze začátečnických kurzů, naučit se to více prakticky využívat, spolupracovat na vývoji, mít nějaký projekt, který budeme moci prezentovat.
+A to nejen my, jednotlivé členky týmu, ale také celkově PyLadies, když se například účastníme nějaké konference nebo prezentace - budeme moci ukázat nějaký reálný výsledek práce absolventeků kurzu. &lt;/p&gt;
+&lt;p&gt;Po vzájemném představení přišla už praktičtější část setkání, vyzkoušeli jsme si nakreslit mind mapu na příkladu šachů, abychom ji pak doma vytvořili pro RoboRally.
+Poté přišla na řadu samotná hra. Patřila jsem k té části týmu, co ji nikdy předtím nehrála, takže to bylo rozhodně potřeba :)
+Stihli jsme několik kol, abychom si trochu prošli pravidla a ukázali, jak hra funguje.
+Z časových důvodů se nám však hru nepodařilo dohrát.
+Jako základ pro tvorbu myšlenkové mapy to ale určitě spolu s psanými pravidly postačí.&lt;/p&gt;
+&lt;p&gt;Příště se tedy sejdeme nad našimi mapami a uvidíme, co bude dál.
+V mezičase nám pro domluvu a týmovou komunikaci bude sloužit Slack. &lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div&gt;&lt;p&gt;Letošní podzimní semestr se pro brněnské PyLadies nese částečně v duchu experimentů.
+Krom klasického kurzu pro začátečníky se totiž pod vedením Petra Viktorina rozběhl nový formát tohoto kurzu a také novinka pro pokročilejší, kurz zaměřený na realizaci praktického projektu a týmovou spolupráci. &lt;/p&gt;
+&lt;p&gt;V rámci kurzu budeme pod Petrovým dohledem v devítičlenné skupině převádět do počítačové podoby deskovou hru RoboRally.
+Včetně dokumentace, testování, všeho potřebného.
+Kurz nemá předpřipravené materiály, vše bude na nás.
+Jak Petr krásně na úvod řekl, budeme se učit dělat software tak, jak by se dělal, kdyby na to byl dostatek času :).
+Protože mi přesně něco takového, jako je praktický projekt, po absolvování začátečnického kurzu chybělo, rozhodla jsem se to zkusit.&lt;/p&gt;
+&lt;p&gt;Sešli jsme se poprvé tento týden v prostorách společnosti Kinali, která se stala sponzorem tohoto kurzu a nabídla nám svoje prostory.
+Vděčíme za to Karolině, organizátorce začátečnického kurzu a zároveň účastnici tohoto projektu, která pro Kinali pracuje jako testerka. Děkujeme :) &lt;/p&gt;
+&lt;p&gt;První setkání bylo primárně seznamovací. A to jak v rámci týmu, tak s náplní samotného kurzu (nebo spíše projektu) a toho, co nás čeká.
+Proběhlo představovací kolečko, kde jsme mluvili také o tom, co nás do kurzu přivedlo. 
+Většina z nás účastnic do toho jde s podobnou motivací - zdokonalit se v tom, co známe ze začátečnických kurzů, naučit se to více prakticky využívat, spolupracovat na vývoji, mít nějaký projekt, který budeme moci prezentovat.
+A to nejen my, jednotlivé členky týmu, ale také celkově PyLadies, když se například účastníme nějaké konference nebo prezentace - budeme moci ukázat nějaký reálný výsledek práce absolventeků kurzu. &lt;/p&gt;
+&lt;p&gt;Po vzájemném představení přišla už praktičtější část setkání, vyzkoušeli jsme si nakreslit mind mapu na příkladu šachů, abychom ji pak doma vytvořili pro RoboRally.
+Poté přišla na řadu samotná hra. Patřila jsem k té části týmu, co ji nikdy předtím nehrála, takže to bylo rozhodně potřeba :)
+Stihli jsme několik kol, abychom si trochu prošli pravidla a ukázali, jak hra funguje.
+Z časových důvodů se nám však hru nepodařilo dohrát.
+Jako základ pro tvorbu myšlenkové mapy to ale určitě spolu s psanými pravidly postačí.&lt;/p&gt;
+&lt;p&gt;Příště se tedy sejdeme nad našimi mapami a uvidíme, co bude dál.
+V mezičase nám pro domluvu a týmovou komunikaci bude sloužit Slack. &lt;/p&gt;&lt;/div&gt;</content></entry></feed>
